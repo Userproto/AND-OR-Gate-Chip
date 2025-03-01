@@ -4,7 +4,7 @@ project:
   title:        "AND-OR Gates"      # Project title
   author:       "Michael Asiamah"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "This chip takes input from two AND gates, then passes them through and or gate"      # One line description of what your project does
+  description:  "Takes input from two AND gates, then passes them through an OR gate"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
