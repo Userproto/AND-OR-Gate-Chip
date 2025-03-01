@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Takes input from two AND gates, then passes them into an OR gate
 
 ## How to test
 
-Explain how to use your project
+Inputs A AND B can be flipped on, or inputs A AND C can be flipped on. No other combinations should yeild and output.
 
 ## External hardware
 
